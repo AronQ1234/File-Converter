@@ -60,7 +60,7 @@ export default function PrivacyPolicy() {
             </div>
 
             <div className="space-y-2">
-                <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">6. "Children's Privacy"</h2>
+                <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">6. Children Privacy</h2>
                 <p>
                     Our website is not intended for children under the age of 13. We do not knowingly collect personal
                     information from children. If you are a parent or guardian and believe that your child has provided
