@@ -3,7 +3,7 @@ export default function PrivacyPolicy() {
         <div className="space-y-12 text-md md:text-lg text-muted-foreground pb-4 md:pb-8">
             <p>Effective Date: Wed 6 Sep 2023</p>
             <p>
-                At Modifio, we are committed to safeguarding your privacy. This Privacy Policy outlines our practices
+                At FFC, we are committed to safeguarding your privacy. This Privacy Policy outlines our practices
                 regarding the collection, use, and disclosure of personal information when you use our website and
                 services. Please read this policy carefully to understand how we handle your data.
             </p>
@@ -24,7 +24,7 @@ export default function PrivacyPolicy() {
                 </h2>
                 <p>
                     We use the information collected through Google Analytics solely for the purpose of understanding
-                    user behavior and improving our website's performance. We do not sell, rent, or share this
+                    user behavior and improving the performance of our website. We do not sell, rent, or share this
                     information with third parties.
                 </p>
             </div>
@@ -60,7 +60,7 @@ export default function PrivacyPolicy() {
             </div>
 
             <div className="space-y-2">
-                <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">6. Children's Privacy</h2>
+                <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">6. "Children's Privacy"</h2>
                 <p>
                     Our website is not intended for children under the age of 13. We do not knowingly collect personal
                     information from children. If you are a parent or guardian and believe that your child has provided
@@ -89,7 +89,7 @@ export default function PrivacyPolicy() {
             </div>
 
             <p>
-                By using Modifio, you agree to the practices outlined in this Privacy Policy. Please discontinue use of
+                By using FFC, you agree to the practices outlined in this Privacy Policy. Please discontinue use of
                 our services if you do not agree with this policy. Thank you for trusting us with your privacy.
             </p>
         </div>
